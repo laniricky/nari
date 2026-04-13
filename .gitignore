@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+android/app/build/
+
+# Rust
+relay_rust/target/
